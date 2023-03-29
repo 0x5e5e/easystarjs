@@ -6,6 +6,8 @@
 [Click here for a demonstration](http://easystarjs.com/)
 
 ## Installation
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F0x5e5e%2Feasystarjs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2F0x5e5e%2Feasystarjs?ref=badge_shield)
+
 * **Web:** Find the minified file in the __/bin__ directory
 * **node.js:** `npm install easystarjs`
 * **Phaser:** see [Phaser Plugin](https://github.com/appsbu-de/phaser_plugin_pathfinding)
@@ -141,6 +143,9 @@ easystar.calculate();
 ## License
 
 easystar.js is licensed under the MIT license. You may use it for commercial use.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F0x5e5e%2Feasystarjs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2F0x5e5e%2Feasystarjs?ref=badge_large)
 
 ## Running the demo locally
 
