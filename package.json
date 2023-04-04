@@ -1,6 +1,6 @@
 {
     "name": "easystarjsalternate",
-    "version": "0.4.3",
+    "version": "0.4.4",
     "main": "./src/easystar.js",
     "typings": "./index.d.ts",
     "description": "Asynchronous A* Pathfinding API",
