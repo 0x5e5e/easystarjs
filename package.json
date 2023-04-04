@@ -1,5 +1,5 @@
 {
-    "name": "easystarjs",
+    "name": "easystarjsalternate",
     "version": "0.4.3",
     "main": "./src/easystar.js",
     "typings": "./index.d.ts",
@@ -11,15 +11,12 @@
         "watch": "webpack -w"
     },
     "keywords": [
-        "A*",
-        "pathfinding",
-        "grid",
-        "easystar"
+        "easy"
     ],
     "homepage": "http://www.easystarjs.com",
     "repository": {
         "type": "git",
-        "url": "git://github.com/prettymuchbryce/easystarjs.git"
+        "url": "git://github.com/0x5e5e/easystarjs.git"
     },
     "license": "MIT",
     "author": {
